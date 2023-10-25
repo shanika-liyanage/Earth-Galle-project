@@ -24,7 +24,9 @@
     </style>
 </head>
 <body>
-    
+
+    <h1>Earth Bit Galle</h1>
+
     <form action="server.php" method="post">
     <h1>EUC Portal</h1>
         Name : <input type="text" name="name" value="<?php if(isset($_COOKIE['username'])) echo $_COOKIE['username'] ?>"><br><br>
