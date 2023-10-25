@@ -12,7 +12,7 @@
             }
 
         form {
-            /* border: 1px solid black; */
+            
             border-radius: 10px;
             padding: 20px 50px;
             margin: 200px;
